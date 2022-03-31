@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @omagebright
 - 👀 I’m interested in Computational Chemistry, Biochemistry and Sowftware Engineering
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently on my PhD in Computational Chemistry
+- 💞️ I’m looking to collaborate on computational softwares and huge software projects
+- 📫 You can reach me on omagefolorunsho@gmail.com
 
 <!---
 omagebright/omagebright is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
