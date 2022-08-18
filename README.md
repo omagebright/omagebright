@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Open projects in computational chemistry**
 
-- 👨‍💻 All of my projects are available at [omage.tech](omage.tech)
+- 👨‍💻 All of my projects are available at [omage.tech](https://omage.tech/)
 
-- 📝 I regularly write articles on [omage.tech](omage.tech)
+- 📝 I regularly write articles on [omage.tech](https://omage.tech/)
 
 - 💬 Ask me about **JavaScript and Computational Chemistry**
 
