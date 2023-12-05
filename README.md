@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/omagebright" target="blank"><img src="https://img.shields.io/twitter/follow/omagebright?logo=twitter&style=for-the-badge" alt="omagebright" /></a> </p>
 
-- 🔭 I’m currently working on **Molecular Dynamics and QSAR softwares**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open projects in computational chemistry**
 
