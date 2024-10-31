@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Folorunsho Bright Omage</h1>
-<h3 align="center">A passionate computational chemist and a full stack developer</h3>
-<div align="center">
-  <video width="600" autoplay loop muted>
-    <source src="Cassia Molecular Dynamics Simulation (1) (1).mp4" type="video/mp4">
-  </video>
-</div>
+<h3 align="center">A passionate computational chemist, biochemist and a machine learning engineer</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omagebright&label=Profile%20views&color=0e75b6&style=flat" alt="omagebright" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omagebright" alt="omagebright" /></a> </p>
@@ -13,13 +9,13 @@
 
 - 🔭 I’m currently working on **Machine & Deep Learning**
 
-- 👯 I’m looking to collaborate on **Open projects in computational chemistry**
+- 👯 I’m looking to collaborate on the **Next Big Thing**
 
-- 👨‍💻 All of my projects are available at [omage.tech](https://omage.tech/)
+- 👨‍💻 All of my projects are available at [dev.fbrit](https://dev.fbrit.com/)
 
-- 📝 I regularly write articles on [omage.tech](https://omage.tech/)
+- 📝 I regularly write articles on [fbrit](https://fbrit.com/)
 
-- 💬 Ask me about **JavaScript and Computational Chemistry**
+- 💬 Ask me about **Machine Learning and Computational Chemistry**
 
 - 📫 How to reach me **omagefolorunsho@gmail.com**
 
